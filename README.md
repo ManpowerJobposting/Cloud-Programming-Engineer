@@ -1,5 +1,7 @@
 # Cloud-Programming-Engineer
+
 Job Description
+
 Learn and use groundbreaking technologies
 Apply advanced troubleshooting techniques to provide unique solutions to our customers' individual needs
 Interact with leading technologists around the world
@@ -11,6 +13,7 @@ Write tutorials, how-to videos, and other technical articles for the AWS custome
 Work on critical, highly complex customer problems that may span multiple AWS services
 
 Qualifications
+
 Strong customer focus
 Must have demonstrated expertise in one or more of these areas:     
 O Big Data
@@ -27,6 +30,7 @@ Self-starter who is excited about technology
 Open to working shifts (7am-3pm or 2pm-11pm, Sun-Thu or Tue-Sat)
 
 Preferred Qualifications
+
 Exposure to Virtualization (VMware, Xen, Hypervisor)
 Exposure to Cloud computing
 Exposure to security concepts / best practices
